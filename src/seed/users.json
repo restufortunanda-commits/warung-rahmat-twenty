@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Rahmat (Pemilik)", "username": "pemilik", "password": "123456", "role": "owner" },
+  { "id": 2, "name": "Rina (Kasir)", "username": "kasir1", "password": "123456", "role": "cashier" },
+  { "id": 3, "name": "Budi (Pelanggan)", "username": "pelanggan1", "password": "123456", "role": "customer" }
+]

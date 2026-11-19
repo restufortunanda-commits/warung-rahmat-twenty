@@ -1,0 +1,22 @@
+[
+  { "id": 1, "category_id": 1, "name": "Beras 5 kg", "unit": "karung", "buy_price": 62000,
+    "sell_price": 68000, "stock": 12, "min_stock": 4, "is_active": true },
+  { "id": 2, "category_id": 1, "name": "Minyak Goreng 1 L", "unit": "pouch", "buy_price": 16000,
+    "sell_price": 18000, "stock": 20, "min_stock": 6, "is_active": true },
+  { "id": 3, "category_id": 1, "name": "Gula Pasir 1 kg", "unit": "kg", "buy_price": 15000,
+    "sell_price": 17000, "stock": 3, "min_stock": 5, "is_active": true },
+  { "id": 4, "category_id": 2, "name": "Kopi Sachet Susu", "unit": "renteng", "buy_price": 12000,
+    "sell_price": 14000, "stock": 25, "min_stock": 5, "is_active": true },
+  { "id": 5, "category_id": 2, "name": "Teh Botol 450 ml", "unit": "botol", "buy_price": 4000,
+    "sell_price": 5000, "stock": 30, "min_stock": 10, "is_active": true },
+  { "id": 6, "category_id": 2, "name": "Air Mineral 600 ml", "unit": "botol", "buy_price": 2500,
+    "sell_price": 3500, "stock": 4, "min_stock": 10, "is_active": true },
+  { "id": 7, "category_id": 3, "name": "Biskuit Kaleng", "unit": "kaleng", "buy_price": 28000,
+    "sell_price": 32000, "stock": 8, "min_stock": 3, "is_active": true },
+  { "id": 8, "category_id": 3, "name": "Keripik Singkong", "unit": "bungkus", "buy_price": 6500,
+    "sell_price": 8000, "stock": 18, "min_stock": 5, "is_active": true },
+  { "id": 9, "category_id": 4, "name": "Tisu Gulung", "unit": "pak", "buy_price": 9000,
+    "sell_price": 11000, "stock": 14, "min_stock": 4, "is_active": true },
+  { "id": 10, "category_id": 4, "name": "Sabun Cuci Piring", "unit": "botol", "buy_price": 7500,
+    "sell_price": 9500, "stock": 2, "min_stock": 5, "is_active": true }
+]
